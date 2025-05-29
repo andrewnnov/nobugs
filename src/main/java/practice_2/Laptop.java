@@ -26,6 +26,6 @@ public class Laptop {
     }
 
     public void printInfo() {
-        System.out.println("The brand is " + brand + ", " + "price is " + price);
+        System.out.println("The brand is " + brand + ", " + "price is " + price + "руб.");
     }
 }
